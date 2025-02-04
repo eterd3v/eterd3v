@@ -1,7 +1,7 @@
 ### Hi there 👋
-- I did Computer Science  
-- 🌱 I’m currently learning Rust and C
-- 📫 How to reach me: [ajam0011@red.ujaen.es](mailto:ajam0011@red.ujaen.es)
+- I did Computer Science at University of Jaén
+- 🌱 I’m interested in learning C++, C#, Lua, Go, Rust, C, among others.
+- 📫 How to reach me: [eterdev@outlook.com](mailto:eterdev@outlook.com)
 - ⚡ Fun fact: The first I made program was an arcade game made in Visual Basic 2008 
 
 <!--
