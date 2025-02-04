@@ -1,6 +1,6 @@
 ### Hi there 👋
 - I did Computer Science at University of Jaén
-- 🌱 I’m interested in learning C++, C#, Lua, Go, Rust, C, among others.
+- 🌱 My most frequent programming languages are C#, Java, C++, among others
 - 📫 How to reach me: [eterdev@outlook.com](mailto:eterdev@outlook.com)
 - ⚡ Fun fact: The first I made program was an arcade game made in Visual Basic 2008 
 
